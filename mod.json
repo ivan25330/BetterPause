@@ -1,9 +1,9 @@
 {
     "geode": "3.2.0",
     "version": "v1.0.0",
-    "id": "steam4ch.better_pause",
+    "id": "myname.better_pause",
     "name": "Better Pause",
-    "developer": "Steam4ch",
+    "developer": "MyName",
     "description": "A cooler pause menu with extra buttons and clean layout.",
     "early-load": false
 }
